@@ -14,7 +14,8 @@ for the UNI/WETH pair.
 1. Manipulate the data to provide the following data in a DataFrame: Timestamp, Side (Buy or Sell),
 Base currency quantity traded, Quote currency quantity traded, Volume in USD, Liquidity in pool,
 
-=> Getting Started
+=> Getting Started:-
+
 I have written the whole script in Jupyter Notebook
 
 Just open the Jupyter Notebook and install the graphQL in the notebook using:-
